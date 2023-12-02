@@ -1,0 +1,473 @@
+*{
+    margin:0;
+    padding: 0;
+    position: relative;
+}
+
+.header{
+    background-color: #f1f1f2;
+    width: 1479px;
+    height: 90px;
+    color:black;
+    animation-name: fade-out;
+}
+
+.nama{
+    float: left;
+padding-top: 15px;
+padding-left: 24px;
+font-family: 'Lucida Sans Regular';
+animation-name: fade-out;
+    animation-timing-function: ease-in;
+    animation-duration: 1s;
+    animation-timing-function: ease-out;
+    animation-fill-mode: forwards;
+}
+
+.icon{
+    margin-left: 1200px;
+    padding-top:37px;
+    font-family: 'Lucida Sans Regular';
+    font-style: bold;
+    animation-name: fade-out;
+    animation-timing-function: ease-in;
+    animation-duration: 1s;
+    animation-timing-function: ease-out;
+    animation-fill-mode: forwards;
+}
+
+.icon ul li{
+list-style: none;
+}
+
+.icon ul li a{
+    text-decoration: none;
+color: black;
+}
+
+.icon ul li a:hover{
+   text-decoration: underline;
+    color: darkgrey;
+}
+
+
+.table{
+    background-color: #bcbabe;
+    height: 100px;
+    font-family:  'Lucida Grande';
+    animation-name: fade-out;
+    animation-timing-function: ease-in;
+    animation-duration: 1s;
+    animation-timing-function: ease-out;
+    animation-fill-mode: forwards;
+}
+
+.table p{
+  margin-left:600px;
+  padding-top: 20px;
+  font-size: 20px;
+  font-style: Bold;
+}
+
+.table ul li{
+    list-style: none;
+    display: inline-block;
+    padding-top: 15px;
+    padding-left: 180px;
+}
+
+.table ul li a{
+    text-decoration: none;
+    color: black;
+}
+
+.table ul li a:hover{
+    color: white;
+    font-style: italic;
+}
+
+.halaman{
+    background-image:url("back.jpeg");
+    height: 500px;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium';
+    animation-name: fade-out;
+    animation-timing-function: ease-in;
+    animation-duration: 1s;
+    animation-timing-function: ease-out;
+    animation-fill-mode: forwards;
+}
+
+.halaman img{
+   border-radius: 200px;
+   height: 220px;
+   border: 4px solid white;
+margin-top: 19px;
+}
+
+.halaman h1{
+    font-style: italic;
+    margin-top: 20px;
+    margin-bottom: 18px;
+    color: white;
+}
+ .halaman p{
+    margin-bottom: 30px;
+    font-size: 25px;
+    padding-top: 10px;
+    color: white;
+ }
+
+ .halaman button{
+    margin-top: 18px;
+    padding: 10px;
+    width: 200px;
+    border-radius: 30px;
+    border: none;
+    color: black;
+    transition: 300ms;
+    font-family: 'bookman old style';
+    font-size: 15px;
+ }
+
+ .halaman button:hover{
+    background-color:black;
+    color: white;
+   border: 2px solid white;
+   transition: 350ms;
+   font-style: italic;
+ }
+
+ h1 span:before{
+    content: "";
+    animation: jalan infinite 8s ease;
+    transform: translate3D(-50%);
+    color:white;
+    font-size: 30px;
+ }
+
+ @keyframes jalan {
+    0%{
+        content:" I,Vikky Apdiansyah";
+    }
+50%{
+content: "Selamat datang di kelas X TJKT 4";
+}
+
+100%{
+    content:"Terima kasih sudah mampir yaa";
+}
+
+ }
+
+ .right{
+    background-color: #9a9eab;
+    height: 88px;
+    text-align: center;
+    animation-name: fade-out;
+    animation-timing-function: ease-in;
+    animation-duration: 1s;
+    animation-timing-function: ease-out;
+    animation-fill-mode: forwards;
+ }
+
+ .right h5{
+    font-family: 'Franklin Gothic Medium';
+    padding-top: 70px;
+    text-decoration: underline;
+ }
+
+ .tite{
+    text-align: center;
+    color: black;
+margin-top: 24px;
+font-family: 'Cambria';
+align-content: center;
+animation-name: fade-out;
+    animation-timing-function: ease-in;
+    animation-duration: 1s;
+    animation-timing-function: ease-out;
+    animation-fill-mode: forwards;
+ }
+
+ .deskripsi{
+    width: 900px;
+    height: 110px;
+   background-color: #f0f0f0;
+   border-radius: 30px;
+   padding-top: 5px;
+   margin-top: 10px;
+   margin-left: 300px;
+   margin-bottom: 20px;
+   transition: 300ms;
+   animation-name: fade-out;
+    animation-timing-function: ease-in;
+    animation-duration: 1s;
+    animation-timing-function: ease-out;
+    animation-fill-mode: forwards;
+ }
+
+ .deskripsi:hover{
+    background-color: rgb(78, 127, 241);
+    color:white;
+    transition: 300ms;
+}
+
+.kotak_des{
+    text-align: center;
+    color: black;
+    margin-top: 24px;
+    align-content: center;
+    font-family: 'Cambria';
+    animation-name: fade-out;
+    animation-timing-function: ease-in;
+    animation-duration: 1s;
+    animation-timing-function: ease-out;
+    animation-fill-mode: forwards;
+     }
+    
+     .kotak_kiri, .kotak_tengah, .kotak_kanan{
+    width: 230px;
+    height: 100px;
+    background-color: #f0f0f0;
+    padding: 30px 30px;
+    margin: 70px 20px 20px 150px;
+    border-radius: 30px;
+    float: left;
+    transition: 300ms;
+    animation-name: fade-out;
+    animation-timing-function: ease-in;
+    animation-duration: 1s;
+    animation-timing-function: ease-out;
+    animation-fill-mode: forwards;
+     }
+    
+     .kotak_kiri:hover, .kotak_tengah:hover, .kotak_kanan:hover{
+    background-color: rgb(78, 127, 241);
+    color: white;
+    transition: 300ms;
+     }
+     
+    
+     .kotak_des h3,p{
+        margin-top: 10px;
+        margin-bottom: 13px;
+        padding: 0px 20px;
+     }
+    
+     .kotak_bkiri, .kotak_btengah, .kotak_bkanan{
+        width: 230px;
+    height: 100px;
+    background-color: #f0f0f0;
+    padding: 30px 30px;
+    margin: 70px 20px 20px 150px;
+    border-radius: 30px;
+    float: left;
+    transition: 300ms;
+    animation-name: fade-out;
+    animation-timing-function: ease-in;
+    animation-duration: 1s;
+    animation-timing-function: ease-out;
+    animation-fill-mode: forwards;
+     }
+    
+     .kotak_bkiri:hover, .kotak_bkanan:hover, .kotak_btengah:hover{
+     background-color: rgb(78, 127, 241);
+     color: white;
+     transition: 300ms;
+     } 
+
+
+     .kopi{
+        float: left;
+        background-color: #9a9eab;
+        height: 77px;
+        width: 1479px;
+        text-align: center;
+        animation-name: fade-out;
+    animation-timing-function: ease-in;
+    animation-duration: 1s;
+    animation-timing-function: ease-out;
+    animation-fill-mode: forwards;
+     }
+
+     .kopi h5{
+        font-family: 'Franklin Gothic Medium';
+        padding-top: 59px;
+        text-decoration: underline;
+     }
+    
+
+.jadwaal{
+    width: 1479px;
+    height: 90px;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 35px;
+margin-right: 50px;
+ font-family: 'Century';
+ animation-name: fade-out;
+    animation-timing-function: ease-in;
+    animation-duration: 1s;
+    animation-timing-function: ease-out;
+    animation-fill-mode: forwards;
+}
+
+.gambar img{
+   width: 700px; 
+   height: 400px;
+   padding-top: 30px;
+border: 2px solid black ;
+animation-name: fade-out;
+    animation-timing-function: ease-in;
+    animation-duration: 1s;
+    animation-timing-function: ease-out;
+    animation-fill-mode: forwards;
+}
+
+.kelompok{
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 35px;
+    margin-left: 10px;
+ font-family: 'Century';
+ animation-name: fade-out;
+    animation-timing-function: ease-in;
+    animation-duration: 1s;
+    animation-timing-function: ease-out;
+    animation-fill-mode: forwards;
+}
+
+.foto img{
+    width: 700px; 
+    height: 500px;
+    padding-top: 30px;
+    border: 2px solid black;
+    animation-name: fade-out;
+    animation-timing-function: ease-in;
+    animation-duration: 1s;
+    animation-timing-function: ease-out;
+    animation-fill-mode: forwards;
+}
+
+
+.judul{
+    width: 1479px;
+    background-image: url("goo.jpg");
+    text-align: center;
+    color: black;
+    padding-top: 24px;
+    align-content: center;
+    font-family: 'mv boli';
+    float: left;
+    animation-name: fade-out  ;
+    animation-timing-function: ease-in;
+    animation-duration: 0.9s;
+    animation-timing-function: ease-out;
+    animation-fill-mode: forwards;
+}
+
+.judul h1{
+text-decoration: underline;
+}
+
+.judul h3{
+    text-decoration: underline;
+    margin-top: 10px;
+    margin-bottom: 13px;
+    padding: 0px 20px;
+}
+
+.judul p{
+    margin-top: 10px;
+    margin-bottom: 13px;
+    padding: 0px 20px;
+}
+
+.kiri, .tengah, .kanan{
+    width: 240px;
+    height: 223px;
+    background-color: snow;
+    padding: 30px 30px;
+    margin:60px 20px 20px 150px ;
+    border-radius: 40px;
+    float: left;
+    transition: 300ms;
+}
+
+.kiri:hover, .kanan:hover, .tengah:hover{
+    color: snow;
+    background-color: black;
+    border-radius: 50%;
+    transition: 300ms;
+}
+
+
+.tahu{
+    height: 1800px;
+    width: 1479px;
+    background-image:url(tkj.jpg);
+    text-align: center;
+    color: black;
+font-family: 'sitka text';
+align-content: center;
+color: white;
+float: left;
+animation-name: fade-out;
+    animation-timing-function: ease-in;
+    animation-duration: 1s;
+    animation-timing-function: ease-out;
+    animation-fill-mode: forwards;
+}
+
+.tahu h1{
+    padding-top: 15px;
+    text-decoration: underline;
+}
+
+
+.ikiri, .itengah, .ikanan, .ipinggir{
+    width: 100px;
+    height: 150px;
+    background-color:transparent;
+    padding: 30px 30px;
+    margin:60px 20px 20px 150px ;
+    border-radius: 40px;
+    float: left;
+    transition: 300ms;
+     }
+
+.tahu  a{
+text-decoration: none;
+color: white;
+transition: 300ms;
+}
+
+.ikiri:hover, .itengah:hover, .ikanan:hover, .ipinggir:hover{
+ color:white;
+ background-color: black;
+ height: 68px;
+border-radius: 100px;
+font-size: 14px;
+transition: 100ms;
+text-decoration: underline;
+}
+
+@keyframes fade-out{
+from{
+transform: translateX(1%);
+transition-duration: 1s;
+transition-delay: 100ms;
+transition-timing-function: ease-in;
+}
+
+to {
+ transition-property: initial;
+ transition-duration: 0.8s;
+ transition-delay: 150ms;
+ transition-timing-function: ease-out;
+}
+}
+
+
+

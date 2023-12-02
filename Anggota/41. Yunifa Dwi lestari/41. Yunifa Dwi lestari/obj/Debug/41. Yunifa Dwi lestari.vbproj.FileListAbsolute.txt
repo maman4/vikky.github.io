@@ -1,0 +1,12 @@
+C:\Users\Lab-Pemprograman-WEB\Documents\41.Yunifaa Dwiii L\p7.1\41. Yunifa Dwi lestari\41. Yunifa Dwi lestari\bin\Debug\_41.Yunifa_Dwi_lestari.exe.config
+C:\Users\Lab-Pemprograman-WEB\Documents\41.Yunifaa Dwiii L\p7.1\41. Yunifa Dwi lestari\41. Yunifa Dwi lestari\bin\Debug\_41.Yunifa_Dwi_lestari.exe
+C:\Users\Lab-Pemprograman-WEB\Documents\41.Yunifaa Dwiii L\p7.1\41. Yunifa Dwi lestari\41. Yunifa Dwi lestari\bin\Debug\_41.Yunifa_Dwi_lestari.pdb
+C:\Users\Lab-Pemprograman-WEB\Documents\41.Yunifaa Dwiii L\p7.1\41. Yunifa Dwi lestari\41. Yunifa Dwi lestari\bin\Debug\_41.Yunifa_Dwi_lestari.xml
+C:\Users\Lab-Pemprograman-WEB\Documents\41.Yunifaa Dwiii L\p7.1\41. Yunifa Dwi lestari\41. Yunifa Dwi lestari\obj\Debug\41. Yunifa Dwi lestari.vbproj.AssemblyReference.cache
+C:\Users\Lab-Pemprograman-WEB\Documents\41.Yunifaa Dwiii L\p7.1\41. Yunifa Dwi lestari\41. Yunifa Dwi lestari\obj\Debug\_41.Yunifa_Dwi_lestari.Form1.resources
+C:\Users\Lab-Pemprograman-WEB\Documents\41.Yunifaa Dwiii L\p7.1\41. Yunifa Dwi lestari\41. Yunifa Dwi lestari\obj\Debug\_41.Yunifa_Dwi_lestari.Resources.resources
+C:\Users\Lab-Pemprograman-WEB\Documents\41.Yunifaa Dwiii L\p7.1\41. Yunifa Dwi lestari\41. Yunifa Dwi lestari\obj\Debug\41. Yunifa Dwi lestari.vbproj.GenerateResource.cache
+C:\Users\Lab-Pemprograman-WEB\Documents\41.Yunifaa Dwiii L\p7.1\41. Yunifa Dwi lestari\41. Yunifa Dwi lestari\obj\Debug\41. Yunifa Dwi lestari.vbproj.CoreCompileInputs.cache
+C:\Users\Lab-Pemprograman-WEB\Documents\41.Yunifaa Dwiii L\p7.1\41. Yunifa Dwi lestari\41. Yunifa Dwi lestari\obj\Debug\_41.Yunifa_Dwi_lestari.exe
+C:\Users\Lab-Pemprograman-WEB\Documents\41.Yunifaa Dwiii L\p7.1\41. Yunifa Dwi lestari\41. Yunifa Dwi lestari\obj\Debug\_41.Yunifa_Dwi_lestari.xml
+C:\Users\Lab-Pemprograman-WEB\Documents\41.Yunifaa Dwiii L\p7.1\41. Yunifa Dwi lestari\41. Yunifa Dwi lestari\obj\Debug\_41.Yunifa_Dwi_lestari.pdb
